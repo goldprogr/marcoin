@@ -1,1 +1,2 @@
 # mracoin
+this new coin
