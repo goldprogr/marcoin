@@ -6,7 +6,7 @@
 #define BITCOIN_CRYPTO_COMMON_H
 
 #if defined(HAVE_CONFIG_H)
-#include "marcoin-config.h"
+#include "mracoin-config.h"
 #endif
 
 #include <stdint.h>
